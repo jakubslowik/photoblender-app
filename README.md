@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98ad9eee-3bbb-44a8-bb2b-dc25751ea9c1/deploy-status)](https://app.netlify.com/sites/photoblender/deploys)
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
