@@ -1,6 +1,24 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/98ad9eee-3bbb-44a8-bb2b-dc25751ea9c1/deploy-status)](https://app.netlify.com/sites/photoblender/deploys)
+# Photoblender app
 
+**NOTE**: This app needs serious refactoring and rewrite. It is an experiment that got out of hands and it serves as proof of concept rather than an usable app. It is by no means finished. 
 
+It uses CSS blend modes (the same blend modes - mostly - uses Photoshop) and filters to mix layers together.
+It takes random images from unsplash and sets them to OVERLAY blend mode by default.
+
+You can change blend modes, hue, saturation, contrast, opacity and other properties of each image/layer. 
+There are some tools implemented like zoom or rotate.
+
+As quirky as it sounds - you cannot save/make a screenshot of a website/DOM that uses CSS blend modes (if its possible, please let me know). I've tried few options, but to no avail. If you want to save a piece, you have to make a manual screenshot.
+
+Fortunately - the same blending behaviour can be achieved using canvas (which can be saved as an image), but it changes the whole app core logic, so it will take some time to implement.
+
+## Here are some (abstract) graphics made with this app:
+Some of them may be weird, as they are random images from Unsplash and they tend to blend in a weird manner
+
+https://imgur.com/a/UnWqQye
+
+-------------------
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
