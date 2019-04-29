@@ -1,6 +1,10 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/98ad9eee-3bbb-44a8-bb2b-dc25751ea9c1/deploy-status)](https://app.netlify.com/sites/photoblender/deploys)
 # Photoblender app
 
+Photoshop-like application made with React, that lets you use blending modes and adjustments to create computer graphics. 
+
+**[LIVE](https://photoblender.netlify.com)**
+
 **NOTE**: This app needs serious refactoring and rewrite. It is an experiment that got out of hands and it serves as proof of concept rather than an usable app. It is by no means finished. 
 
 It uses CSS blend modes (the same blend modes - mostly - uses Photoshop) and filters to mix layers together.
